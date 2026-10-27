@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/build",
+  "command": "/usr/bin/c++  -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/include -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/external/glad/include  -o CMakeFiles/Minecraft-Multiplayer.dir/src/main.cpp.o -c /home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/main.cpp",
+  "file": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/main.cpp",
+  "output": "CMakeFiles/Minecraft-Multiplayer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/build",
+  "command": "/usr/bin/c++  -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/include -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/external/glad/include  -o CMakeFiles/Minecraft-Multiplayer.dir/src/shader.cpp.o -c /home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/shader.cpp",
+  "file": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/shader.cpp",
+  "output": "CMakeFiles/Minecraft-Multiplayer.dir/src/shader.cpp.o"
+},
+{
+  "directory": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/build",
+  "command": "/usr/bin/c++  -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/include -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/external/glad/include  -o CMakeFiles/Minecraft-Multiplayer.dir/src/chunk.cpp.o -c /home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/chunk.cpp",
+  "file": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/chunk.cpp",
+  "output": "CMakeFiles/Minecraft-Multiplayer.dir/src/chunk.cpp.o"
+},
+{
+  "directory": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/build",
+  "command": "/usr/bin/c++  -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/include -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/external/glad/include  -o CMakeFiles/Minecraft-Multiplayer.dir/src/world.cpp.o -c /home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/world.cpp",
+  "file": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/world.cpp",
+  "output": "CMakeFiles/Minecraft-Multiplayer.dir/src/world.cpp.o"
+},
+{
+  "directory": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/build",
+  "command": "/usr/bin/c++  -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/include -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/external/glad/include  -o CMakeFiles/Minecraft-Multiplayer.dir/src/player.cpp.o -c /home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/player.cpp",
+  "file": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/player.cpp",
+  "output": "CMakeFiles/Minecraft-Multiplayer.dir/src/player.cpp.o"
+},
+{
+  "directory": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/build",
+  "command": "/usr/bin/c++  -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/include -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/external/glad/include  -o CMakeFiles/Minecraft-Multiplayer.dir/src/renderer.cpp.o -c /home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/renderer.cpp",
+  "file": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/renderer.cpp",
+  "output": "CMakeFiles/Minecraft-Multiplayer.dir/src/renderer.cpp.o"
+},
+{
+  "directory": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/build",
+  "command": "/usr/bin/c++  -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/include -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/external/glad/include  -o CMakeFiles/Minecraft-Multiplayer.dir/src/camera.cpp.o -c /home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/camera.cpp",
+  "file": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/src/camera.cpp",
+  "output": "CMakeFiles/Minecraft-Multiplayer.dir/src/camera.cpp.o"
+},
+{
+  "directory": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/build",
+  "command": "/usr/bin/cc  -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/include -I/home/danyl/Projects/Networking/Minecraft-MultiPlayer/external/glad/include  -o CMakeFiles/Minecraft-Multiplayer.dir/external/glad/src/glad.c.o -c /home/danyl/Projects/Networking/Minecraft-MultiPlayer/external/glad/src/glad.c",
+  "file": "/home/danyl/Projects/Networking/Minecraft-MultiPlayer/external/glad/src/glad.c",
+  "output": "CMakeFiles/Minecraft-Multiplayer.dir/external/glad/src/glad.c.o"
+}
+]

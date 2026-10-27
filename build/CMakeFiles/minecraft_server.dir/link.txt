@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/minecraft_server.dir/link.d CMakeFiles/minecraft_server.dir/src/server/main.cpp.o -o minecraft_server

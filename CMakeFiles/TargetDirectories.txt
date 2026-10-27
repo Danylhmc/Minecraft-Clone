@@ -1,0 +1,3 @@
+/home/danyl/Projects/Networking/Minecraft-MultiPlayer/CMakeFiles/Minecraft-Multiplayer.dir
+/home/danyl/Projects/Networking/Minecraft-MultiPlayer/CMakeFiles/edit_cache.dir
+/home/danyl/Projects/Networking/Minecraft-MultiPlayer/CMakeFiles/rebuild_cache.dir
